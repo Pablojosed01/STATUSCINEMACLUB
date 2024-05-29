@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MINECRAFT"];
+const statusMessages = ["Meteor Studio","Tickets","Minecraft"];
 
 
 let currentIndex = 0;
