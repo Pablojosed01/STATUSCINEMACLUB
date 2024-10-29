@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Meteor Studio"];
+const statusMessages = ["Cinema Club","Bot Oficial"];
 
 
 let currentIndex = 0;
